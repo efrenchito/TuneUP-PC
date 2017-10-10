@@ -1,0 +1,24 @@
+TuneUp Windows (https://www.youtube.com/watch?v=HOm6VSbjuvw)
+  Internal Cleaning -(Temporary Files (10%FreeSpace)/Defragment Registry)
+  Startup Process   -Avoid unnecesary applications running in Background
+  Windows Updates   -May affect performance
+
+Registry
+  Registry it's a database that contains a lot of configuration information for the Operative System and software installed, things like   
+  whether the Task Manager shows up, when things start, what happens when the computer shuts down, whenever you install a new piece of   
+  software it insert values into Registry.
+  installation/uninstallation results in record keys pointing to non existing files on Registry
+  So the computer needs to wait to confirm that file actually exist(Fail out period of time)
+  - Temporary Files
+  - BitTorrent
+Startup Process
+  Installation process normally will automatically add themselves to startup routine.
+  So maybe you don't need it but they're running in background
+  -> So you need to clean up all the startup process and maybe if the program is unistalled that trigger pointint to stratup process need 
+     to be removed
+Windows Updates
+  Every Service Pack could require more resources
+  The Originally Windows XP - only needed 64 megs of ram
+   -> Service Pack 1|2|3 needed 512 megs of ram in order to run well
+
+=> CCleaner

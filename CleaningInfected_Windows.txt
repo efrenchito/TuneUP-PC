@@ -1,0 +1,29 @@
+Cleaning an Infected Windows PC (https://www.youtube.com/watch?v=GySdZHaoij0)
+
+	.Creaste a System Restore Point
+	.Secure your Network(Open DNS)
+	.Define a Password (vulnerability)
+	.Restore Internet Security Options (Windows+Run>inetcpl.cpl>Advanced tab>Reset)
+	.Uninstall unrequired SW (Avoid multiple Security SW)-> may requiere Removable Tool.
+    .Tune UP
+    .Install Security SW
+  Avoid T-Timer/Registry Guard
+Install ALL Updates *(Adove/Java)
+  Covering Security Holes, avoiding virus explode vulnerabilities.
+	.Run SCAN
+  If this does not work try with:
+  -ComoFix
+  -Malware bytes
+	.Run on safe mode
+	  If you PC doesn't work in "normal" mode you need to start it in 'Safe Mode' F8
+	    -> Reboot your computer
+	    -> Press F8
+	    -> Select 'Safe Mode' (Only starts minimal processes and services that are required)
+	    -> Windows+Run 'msconfig' disable process not required
+	    -> Create a System Restore
+	.When you have a Virus think on Reload (If is taking 1/2 days or maybe 2 weeks)
+
+
+
+
+
